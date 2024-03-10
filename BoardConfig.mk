@@ -18,6 +18,9 @@ DEVICE_PATH := device/samsung/a70q
 
 include device/samsung/sm6150-common/BoardConfigCommon.mk
 
+#maintainer
+MATRIXX_MAINTAINER := Ryannbreston
+
 #Unlock
 TARGET_FACE_UNLOCK_SUPPORTED := true 
 
